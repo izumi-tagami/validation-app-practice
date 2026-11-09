@@ -27,3 +27,4 @@ COACHTECH 教材 Tutorial 9-6「バリデーション ハンズオン演習」�
 - 全ての項目を入力して登録を押したときの処理が完了したか。
 - 何も入力せずに登録ボタンを押したときにエラーが表示されるか。
 - 正しくない入力方法をそれぞれ試してみてエラーが表示されるか。
+- <img width="1920" height="869" alt="ユーザー登録" src="https://github.com/user-attachments/assets/89c015ce-230e-4dbd-aa7d-d98a18273ac1" />
